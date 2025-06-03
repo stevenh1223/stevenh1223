@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 
 ## 🔬 Background
 - 🎓 MD, Taipei Medical University  
-- 🥼 Former physician at Chang Gung & TMU Hospitals (2021–2023)  
+- 💊 Former physician at Chang Gung & TMU Hospitals (2021–2023)  
 - 💻 MS in Computer Science (Bridge), Columbia University
 
 ## 💼 Interests
