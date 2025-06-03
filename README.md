@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wei-Jen Hsiao
+# 👋 Hi, I'm Steven Hsiao
 
 Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about data-driven decision-making, algorithmic trading, and statistical modeling. With a background in medicine and formal training in computer science and probability, I bring a unique interdisciplinary perspective to quantitative analysis.
 
