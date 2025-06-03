@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 **Languages:** Python, R, Java, JavaScript  
 **Tools:** Git, VS Code, statsmodels, metafor, meta  
 **Data:** Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing   
-**Finance Knowledge:** Options Pricing, Greeks, Risk Management (Completed Akuna Capital Options 101 Course)
+**Finance Knowledge:** Options Pricing, Greeks, Risk Management (Completed Akuna Capital Options 101 Course)   
 **Competitive Math:** AMC10 Distinguished Honor Roll (Top 1%), AIME Qualifier
 
 
