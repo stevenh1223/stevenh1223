@@ -16,11 +16,11 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 ## 📈 Selected Projects
 - **[Meta-Regression on Cardiovascular Risk](https://github.com/stevenh1223/meta-regression-cvd-risk)**  
   Used OLS/WLS to model noisy health data   
-  — techniques transferable to quant modeling, signal extraction, and predictive finance.
+  — Techniques transferable to quantitative modeling, signal extraction, and predictive finance
 
 - **[APOE4 & POCD Meta-Analysis (Published)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282214)**  
   Led a large-scale statistical analysis project (22 studies, 6,734 patients)   
-  — applied methods relevant to risk modeling, hypothesis testing, and inference under uncertainty.   
+  — Applied methods relevant to risk modeling, hypothesis testing, and inference under uncertainty   
   🔗 GitHub: [APOE4 Meta-Analysis Code](https://github.com/stevenh1223/r-meta-analysis-apoe4)
 
 ## 🛠️ Skills
