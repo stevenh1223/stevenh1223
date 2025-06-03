@@ -25,8 +25,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
   A React-based platform designed to help students share their cross-disciplinary experiences when transitioning to graduate school.
 
 ## 🛠️ Skills
-**Languages:** Python, R, Java, JavaScript 
-**Tools:** Git, VS Code, statsmodels, metafor, meta  
+**Languages and tools:** Python, R, Java, JavaScript, Git, VS Code, statsmodels, metafor, meta  
 **Data:** Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing  
 
 ## 📫 Let's connect
