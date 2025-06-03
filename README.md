@@ -21,9 +21,6 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
   First-author peer-reviewed study on the genetic risk of postoperative cognitive dysfunction.  
   🔗 GitHub: [APOE4 Meta-Analysis Code](https://github.com/stevenh1223/r-meta-analysis-apoe4)
 
-- **[Slash: Web App for Grad Transition Stories](https://github.com/stevenh1223/slash)**  
-  A React-based platform designed to help students share their cross-disciplinary experiences when transitioning to graduate school.
-
 ## 🛠️ Skills
 **Languages:** Python, R, Java, JavaScript  
 **Tools:** Git, VS Code, statsmodels, metafor, meta  
