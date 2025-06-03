@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 - Options Trading Strategies  
 - High-performance Python & R programming
 
-## 📈 Projects
+## 📈 Selected Projects
 - **[Meta-Regression on Cardiovascular Risk](https://github.com/stevenh1223/meta-regression-cvd-risk)**  
   Linear algebra & probability course project using OLS/WLS to model cardiovascular risk factors.
 
