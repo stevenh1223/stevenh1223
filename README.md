@@ -25,12 +25,12 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
   A React-based platform designed to help students share their cross-disciplinary experiences when transitioning to graduate school.
 
 ## 🛠️ Skills
-**Languages:** Python, R, Java, JavaScript
+**Languages:** Python, R, Java, JavaScript  
 **Tools:** Git, VS Code, statsmodels, metafor, meta  
-**Data:** Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing  
+**Data:** Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing   
 
 ## 📫 Let's connect
 Feel free to reach out or collaborate:
 - 📧 [sh4631@columbia.edu]
-- 🌐 [[LinkedIn Profile or Personal Website](https://www.linkedin.com/in/steven-hsiao-md/)]
+- 🌐 [[LinkedIn Profile](https://www.linkedin.com/in/steven-hsiao-md/)]
 
