@@ -34,8 +34,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 - ⛷️ **Snowboarding**: Rode **double diamond terrain** in Aspen after just **10 days** of learning  
 - 🪕 **Ukulele Club President**: Led events and performed pieces like [“Despacito – Instrumental”](https://www.youtube.com/watch?v=LJfHZzj2gkY)
 - 🎹 **Piano Club Performer** @ TMU: [“John Cena – The Time is Now”](https://www.youtube.com/watch?v=DaTTtpeL-fk)  
-- 🏥 **Former Vice President**, TMU Medical Service Team – coordinated student-led medical outreach  
-- 🏀 **Former Shooting Guard**, TMU Men’s Basketball Team (系籃)  
+- 🏥 **Former Vice President**, TMU Medical Service Team – coordinated student-led medical outreach    
 
 ## 📫 Let's connect
 Feel free to reach out or collaborate:
