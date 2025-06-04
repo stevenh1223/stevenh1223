@@ -30,6 +30,8 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 **Finance Knowledge:** Options Pricing, Greeks, Risk Management (Completed Akuna Capital Options 101 Course)   
 **Competitive Math:** AMC10 Distinguished Honor Roll (Top 1%), AIME Qualifier
 
+---
+
 ## 🎯 Personal Interests & Leadership
 - ⛷️ **Snowboarding**: Rode **double diamond terrain** in Aspen after just **10 days** of learning  
 - 🪕 **Ukulele Club President**: Led events and performed pieces like [“Despacito – Instrumental”](https://www.youtube.com/watch?v=LJfHZzj2gkY)
