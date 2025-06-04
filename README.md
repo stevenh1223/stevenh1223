@@ -24,19 +24,17 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
   🔗 GitHub: [APOE4 Meta-Analysis Code](https://github.com/stevenh1223/r-meta-analysis-apoe4)
 
 ## 🛠️ Skills
-**Languages:** Python, R, Java, JavaScript  
-**Tools:** Git, VS Code, statsmodels, metafor, meta  
-**Data:** Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing   
-**Finance Knowledge:** Options Pricing, Greeks, Risk Management (Completed Akuna Capital Options 101 Course)   
-**Competitive Math:** AMC10 Distinguished Honor Roll (Top 1%), AIME Qualifier
-
----
+- **Languages**: Python, R, Java, JavaScript  
+- **Tools**: Git, VS Code, `statsmodels`, `metafor`, `meta`  
+- **Data**: Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing  
+- **Finance**: Options Pricing, Greeks, Risk Management *(Akuna Capital Options 101)*  
+- **Math**: AMC10 Top 1%, AIME Qualifier  
 
 ## 🎯 Personal Interests & Leadership
-- ⛷️ **Snowboarding**: Rode **double diamond terrain** in Aspen after just **10 days** of learning  
-- 🪕 **Ukulele Club President**: Led events and performed pieces like [“Despacito – Instrumental”](https://www.youtube.com/watch?v=LJfHZzj2gkY)
-- 🎹 **Piano Club Performer** @ TMU: [“John Cena – The Time is Now”](https://www.youtube.com/watch?v=DaTTtpeL-fk)  
-- 🏥 **Former Vice President**, TMU Medical Service Team – coordinated student-led medical outreach    
+- ⛷️ **Snowboarding**: Rode **double diamond** terrain in Aspen after 10 days of learning  
+- 🪕 **Ukulele Club President** @ TMU – [Despacito (Instrumental)](https://www.youtube.com/watch?v=LJfHZzj2gkY)  
+- 🎹 **Piano Club Performer** – [“John Cena – The Time is Now”](https://www.youtube.com/watch?v=DaTTtpeL-fk)  
+- 🏥 **Former Vice President**, TMU Medical Service Team – led student medical outreach initiatives    
 
 ## 📫 Let's connect
 Feel free to reach out or collaborate:
