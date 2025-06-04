@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about data-driven decision-making, algorithmic trading, and statistical modeling. With a background in medicine and formal training in computer science and probability, I bring a unique interdisciplinary perspective to quantitative analysis.
 
 ## 🔬 Background
-- 🎓 MD, Taipei Medical University  
+- 🎓 MD, Taipei Medical University (TMU)  
 - 💊 Former physician at Chang Gung & TMU Hospitals (2021–2023)  
 - 💻 Enrolled in the MS in Computer Science (Bridge), Columbia University 
 
