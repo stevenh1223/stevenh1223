@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 
 ## 🔬 Background
 - 🎓 MD, Taipei Medical University (TMU)  
-- 💊 Former physician at Chang Gung & TMU Hospitals (2021–2023)  
+- 🏥 Former physician at Chang Gung & TMU Hospitals (2021–2023)  
 - 💻 Enrolled in the MS in Computer Science (Bridge), Columbia University 
 
 ## 💼 Interests
@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a physician turned aspiring quant, passionate about da
 - ⛷️ **Snowboarding**: Rode *double diamond* terrain in Aspen after just 10 days of learning  
 - 🪕 **Former TMU Ukulele Club President**: Led events and performed pieces like [*Despacito – Instrumental*](https://www.youtube.com/watch?v=LJfHZzj2gkY)  
 - 🎹 **Former TMU Piano Club Performer**: Played [*John Cena – The Time is Now*](https://www.youtube.com/watch?v=DaTTtpeL-fk)  
-- 🏥 **Former TMU Medical Service Team Vice President**: Led student medical outreach initiatives
+- 💊 **Former TMU Medical Service Team Vice President**: Led student medical outreach initiatives
 
 ## 📫 Let's connect
 Feel free to reach out or collaborate:
