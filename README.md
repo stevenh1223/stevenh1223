@@ -1,43 +1,60 @@
 # 👋 Hi, I'm Steven Hsiao
 
-Welcome to my GitHub! I'm a physician turned CS grad student at Columbia, passionate about data-driven decision-making, algorithmic trading, and statistical modeling. With a background in medicine and formal training in computer science and probability, I bring a unique interdisciplinary perspective to quantitative analysis.
+I'm a physician and computer science graduate student at Columbia University, currently building applied AI tools for aesthetic medicine.
+
+My interests sit at the intersection of **medicine, artificial intelligence, computer vision, and product development**.
 
 ## 🔬 Background
-- 🎓 MD, Taipei Medical University (TMU)  
-- 🏥 Former physician at Chang Gung & TMU Hospitals (2021–2023)  
+
+- 🎓 MD, Taipei Medical University (TMU)
+- 🏥 Former physician at Chang Gung & TMU Hospitals (2021–2023)
 - 💻 MS in Computer Science, Columbia University
 
-## 💼 Interests
-- Quantitative Trading & Market Microstructure  
-- Meta-Analysis & Predictive Modeling  
-- Options Trading Strategies  
-- High-performance Python & R programming
+## 💡 Current Focus
 
-## 📈 Selected Projects
-- **[Meta-Regression on Cardiovascular Risk](https://github.com/stevenh1223/meta-regression-cvd-risk)**  
-  Used OLS/WLS to model noisy health data   
-  — Techniques transferable to quantitative modeling, signal extraction, and predictive finance
+- Applied AI in Medicine
+- Computer Vision & Generative AI
+- Aesthetic Medicine
+- AI Product Development
 
-- **[APOE4 & POCD Meta-Analysis (Published)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282214)**  
-  Led a large-scale statistical analysis project (22 studies, 6,734 patients)   
-  — Applied methods relevant to risk modeling, hypothesis testing, and inference under uncertainty   
-  🔗 GitHub: [APOE4 Meta-Analysis Code](https://github.com/stevenh1223/r-meta-analysis-apoe4)
+I'm currently exploring how generative AI can be integrated into real-world clinical workflows, with a focus on tools that support physician-patient communication and consultation.
 
-## 🛠️ Skills
-- **Languages**: Python, R, Java, JavaScript  
-- **Tools**: Git, VS Code, `statsmodels`, `metafor`, `meta`  
-- **Data**: Statistical Modeling, Regression, Meta-Analysis, Hypothesis Testing  
-- **Finance**: Options Pricing, Greeks, Risk Management *(Akuna Capital Options 101)*  
-- **Math**: AMC10 Top 1%, AIME Qualifier  
+## 📈 Selected Work
 
-## 🎯 Personal Interests & Leadership
-- ⛷️ **Snowboarding**: Rode *double diamond* terrain in Aspen after just 10 days of learning  
-- 🪕 **Former TMU Ukulele Club President**: Led events and performed pieces like [*Despacito – Instrumental*](https://www.youtube.com/watch?v=LJfHZzj2gkY)  
-- 🎹 **Former TMU Piano Club Performer**: Played [*John Cena – The Time is Now*](https://www.youtube.com/watch?v=DaTTtpeL-fk)  
-- 💊 **Former TMU Medical Service Team Vice President**: Led student medical outreach initiatives
+### Aesthetic Medicine × AI
+Currently developing an AI-powered consultation tool for aesthetic medicine that generates visual simulations of potential procedural outcomes from patient photos.
 
-## 📫 Let's connect
-Feel free to reach out or collaborate:
-- 📧 [sh4631@columbia.edu]
-- 🌐 [[LinkedIn Profile](https://www.linkedin.com/in/steven-hsiao-md/)]
+The project is currently being iterated with physician feedback and prepared for clinical workflow testing.
 
+*Core implementation is maintained in a private repository.*
+
+### [APOE4 & Postoperative Cognitive Dysfunction — Meta-Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282214)
+
+First-author published research analyzing 22 studies with 6,734 patients to investigate the association between APOE4 and postoperative cognitive dysfunction.
+
+🔗 [Analysis Code](https://github.com/stevenh1223/r-meta-analysis-apoe4)
+
+### [Meta-Regression on Cardiovascular Risk](https://github.com/stevenh1223/meta-regression-cvd-risk)
+
+Statistical modeling and meta-regression of cardiovascular risk data using OLS/WLS.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, R, Java, JavaScript, C
+- **AI / Computer Vision:** PyTorch, Diffusers, OpenCV, MediaPipe
+- **Web:** React
+- **Data & Statistics:** Regression, Meta-Analysis, Hypothesis Testing
+- **Tools:** Git, VS Code
+
+## 🌱 Outside of Work
+
+- ⛷️ Snowboarding
+- 🥊 Muay Thai & strength training
+- 🎹 Piano
+- 🎵 Former President, TMU Ukulele Club
+- 🩺 Former Vice President, TMU Medical Service Team
+
+## 📫 Let's Connect
+
+- 📧 sh4631@columbia.edu
+- 🌐 [LinkedIn](https://www.linkedin.com/in/steven-hsiao-md/)
