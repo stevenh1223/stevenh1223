@@ -24,7 +24,7 @@ I'm currently exploring how generative AI can be integrated into real-world clin
 ### Aesthetic Medicine × AI
 Currently developing an AI-powered consultation tool for aesthetic medicine. The project is being iterated with physician feedback and prepared for clinical workflow testing.
 
-*Core implementation is maintained in a private repository.*
+*Core implementation is kept private.*
 
 ### [APOE4 & Postoperative Cognitive Dysfunction — Meta-Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282214)
 
