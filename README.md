@@ -22,9 +22,7 @@ I'm currently exploring how generative AI can be integrated into real-world clin
 ## 📈 Selected Work
 
 ### Aesthetic Medicine × AI
-Currently developing an AI-powered consultation tool for aesthetic medicine that generates visual simulations of potential procedural outcomes from patient photos.
-
-The project is currently being iterated with physician feedback and prepared for clinical workflow testing.
+Currently developing an AI-powered consultation tool for aesthetic medicine. The project is currently being iterated with physician feedback and prepared for clinical workflow testing.
 
 *Core implementation is maintained in a private repository.*
 
